@@ -1,2 +1,2 @@
 ![Silver](Silver.png)
-<img src="Silver.png" width="200" style="border-radius: 50%;">
+<img src="Silver.png" width="600" style="border-radius: 15px;">
